@@ -1,1 +1,1 @@
-# Hotel Bookings Exploratory Data Analysis
+# Hotel Booking Exploratory Data Analysis
