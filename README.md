@@ -95,3 +95,12 @@ Some rows are removed from columns adults, children and babies.
     
     Countplot
      
+## Conclusion:
+1) City hotel has more bookings.
+2) Agent no. 9 made most of the bookings.
+3) There are very few guests booking for the same hotel again.
+4) A type rooms are most prefered rooms.
+5) BB type food is most preferred food.
+6) August month has maximum number of bookings.
+7) Mostly used distribution channel is TA/TO channel.
+8) 2016 has highest bookings.
