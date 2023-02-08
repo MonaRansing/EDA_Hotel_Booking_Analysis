@@ -79,4 +79,15 @@ Some rows are removed from columns adults, children and babies.
 ### Univariate analysis:
 **In univariate analysis following questions are tried to solve:**
 1) Which type of hotel is mostly prefered by the guests?
-2) 2) Which agent made the most bookings?
+2) Which agent made the most bookings?
+3) What is the percentage of repeated guests?
+4) What is the most preferred room type by the customers?
+5) What type of food is mostly prefered by the guests?
+6) In which month most of the bookings happened?
+7) Which distribution channel is mostly used for hotel booking?
+8) which year had highest bookings?
+**This questions are performed using matplotlib and seaborn. Followin charts are used for this:**
+     Pie chart
+     baeplot
+     countplot
+     
