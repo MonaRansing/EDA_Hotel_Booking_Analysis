@@ -86,8 +86,12 @@ Some rows are removed from columns adults, children and babies.
 6) In which month most of the bookings happened?
 7) Which distribution channel is mostly used for hotel booking?
 8) which year had highest bookings?
+
 **This questions are performed using matplotlib and seaborn. Followin charts are used for this:**
-     Pie chart
-     baeplot
-     countplot
+    
+    Pie chart
+     
+    Barplot
+    
+    Countplot
      
