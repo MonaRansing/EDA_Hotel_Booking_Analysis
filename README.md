@@ -76,7 +76,7 @@ Given dataset have 4 columns company, aent, country and children missing values 
 Total_people and Total_stay these two columns are added in given dataset
 Some rows are removed from columns adults, children and babies.
 ## EDA:
-The EDA is done by using 3 analysis Univariate, Bivariate and Mulivariate analysis. For the datavisualization following charts are used:
+The EDA is done by using 3 analysis Univariate, Bivariate and Multivariate analysis. For the datavisualization following charts are used:
 
 Pie chart
 
@@ -108,3 +108,21 @@ Heatmap
 8) 2016 has highest bookings.
 ### Bivariate and Multivariate analysis:
 **In bivariate and multivariate analysis following questions are tried to solve:**
+1) Which hotel type has the highest ADR?
+2) which hotel has longer waiting time?
+3) Which distribution channel contributed more to adr in order to increase the income?
+4) What is optimal stay length in both types of hotel?
+5) Relationship between the repeated guests and previous bookings not canceled?
+6) Relationship between ADR and total number of people?
+
+## Conclusion:
+1) City hotel has highest adr.
+2) City hotel has longer waiting time.
+3) GDS distribution channel contributed more to ADR in city hotel.
+4) Optimal stay length in both hotel type is less than 7 days.
+5) Repeated guests do not cancel there bookings.
+6) Number of people increases adr aslo going to increase.
+
+### Conclusion from correlation heatmap
+1) arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51.
+2) stays_in_week_nights and total_stay has positive correlation which is 0.95.
