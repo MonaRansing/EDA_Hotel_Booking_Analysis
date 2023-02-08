@@ -1,6 +1,6 @@
 # Hotel Booking Exploratory Data Analysis
 ## Obective:
-I have Hotel Bookin dataset.The main objective of this project is explore the given dataset and find useful conclusion about general trends in hotel booking and discover how these factors affect on hospitality business.
+I have Hotel Booking dataset.The main objective of this project is explore the given dataset and find useful conclusion about general trends in hotel booking and discover how these factors affect on hospitality business.
 ## Dataset:
 The iven dataset have information of city and resort hotel. This dataset have 11390 rows and 32 coulumns. The columns from the dataset is as follows:
 
@@ -75,3 +75,8 @@ Given dataset have 4 columns company, aent, country and children missing values 
 ## **Adittion of new columns**
 Total_people and Total_stay these two columns are added in given dataset
 Some rows are removed from columns adults, children and babies.
+## EDA:
+### Univariate analysis:
+**In univariate analysis following questions are tried to solve:**
+1) Which type of hotel is mostly prefered by the guests?
+2) 2) Which agent made the most bookings?
