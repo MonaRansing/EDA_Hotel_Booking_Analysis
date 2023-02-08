@@ -76,6 +76,16 @@ Given dataset have 4 columns company, aent, country and children missing values 
 Total_people and Total_stay these two columns are added in given dataset
 Some rows are removed from columns adults, children and babies.
 ## EDA:
+The EDA is done by using 3 analysis Univariate, Bivariate and Mulivariate analysis. For the datavisualization following charts are used:
+
+Pie chart
+
+Barplot
+
+Countplot
+
+Heatmap
+
 ### Univariate analysis:
 **In univariate analysis following questions are tried to solve:**
 1) Which type of hotel is mostly prefered by the guests?
@@ -86,14 +96,6 @@ Some rows are removed from columns adults, children and babies.
 6) In which month most of the bookings happened?
 7) Which distribution channel is mostly used for hotel booking?
 8) which year had highest bookings?
-
-**This questions are performed using matplotlib and seaborn. Followin charts are used for this:**
-    
-    Pie chart
-     
-    Barplot
-    
-    Countplot
      
 ## Conclusion:
 1) City hotel has more bookings.
@@ -104,3 +106,5 @@ Some rows are removed from columns adults, children and babies.
 6) August month has maximum number of bookings.
 7) Mostly used distribution channel is TA/TO channel.
 8) 2016 has highest bookings.
+### Bivariate and Multivariate analysis:
+**In bivariate and multivariate analysis following questions are tried to solve:**
