@@ -4,6 +4,7 @@ I have Hotel Bookin dataset.The main objective of this project is explore the gi
 ## Dataset:
 The iven dataset have information of city and resort hotel. This dataset have 11390 rows and 32 coulumns. The columns from the dataset is as follows:
 **Hotel:** Type of hotel(City or Resort)
+
 **is_cancelled:** If the booking was cancelled(1) or not(0)
 **lead_time:** Number of days before the actual arrival of the guests
 **arrival_date_year:** Year of arrival date
