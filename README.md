@@ -144,4 +144,3 @@ Heatmap
 14) The number of people increases ADR increases.
 15) arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51.
 16) stays_in_week_nights and total_stay has positive correlation which is 0.95.
-17) 
